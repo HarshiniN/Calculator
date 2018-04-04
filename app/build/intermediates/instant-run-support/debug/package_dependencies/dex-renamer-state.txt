@@ -1,0 +1,4 @@
+#Wed Apr 04 14:29:42 BST 2018
+base.0=E\:\\github\\android\\lab2\\Calculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
